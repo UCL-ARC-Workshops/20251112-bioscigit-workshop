@@ -4,3 +4,4 @@ scipy
 matplotlib
 ipywidgets>=7.0.0
 nbinteract>=0.0.12
+jupyter
