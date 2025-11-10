@@ -4,12 +4,12 @@ Country: USA (N. America)
 
 ##### Also known as:
 
-FIXME
+Denver
 
 ### What we would like to see there
 
-FIXME
+Denver, Colorado
 
 ### Extra information
 
-- Link to [wikipedia](https://wikipedia.org/FIXME)
+- Link to [wikipedia](https://en.wikipedia.org/wiki/Denver)
