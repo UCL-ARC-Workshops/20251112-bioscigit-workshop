@@ -32,7 +32,8 @@ jobs:
           cache-version: 1
       - uses: actions/setup-python@v6
         with:
-          python-version: '3.13'
+          python-version: '3.12'
+          cache: 'pip'
       - run: pip install -r .devcontainer/requirements.txt
       - name: Render quarto website
         uses: quarto-dev/quarto-actions/render@v2
